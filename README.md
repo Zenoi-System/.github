@@ -101,19 +101,6 @@ Divisão de engenharia e inovação em hardware.
 
 ---
 
-## 🧪 Open Source
-
-Este GitHub inclui:
-
-- Módulos reutilizáveis  
-- Boilerplates SaaS  
-- Experimentos com IA  
-- Ferramentas de automação  
-
-> Alguns projetos são derivados de sistemas reais e adaptados para open source.
-
----
-
 ## 📐 Princípios de Arquitetura
 
 - Monólito modular → preparado para microserviços  
